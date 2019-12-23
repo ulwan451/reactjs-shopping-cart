@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.card {
+height: 80vh;
+}
+.auto {
+    text-align: center;
+    position: relative;
+    top: -100px;
+}
+.total {
+    border: 2px solid rgb(233, 233, 233);
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    font-size: 25px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+.judul {
+    margin: 10px 0;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.content {
+    font-size: 15px;
+}
+
+.card {
+    padding: 10px;
+    box-shadow: 0 0 11px rgb(206, 201, 201);
+}
